@@ -3,5 +3,5 @@ echo 'yoyoyo';
 test;
 Всем привет;
 12345;
-
+www
 
