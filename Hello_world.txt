@@ -1,5 +1,7 @@
-print("Hello world")
-echo 'yoyoyo'
-test
-Всем привет
-12345
+print("Hello world");
+echo 'yoyoyo';
+test;
+Всем привет;
+12345;
+
+
