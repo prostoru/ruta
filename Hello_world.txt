@@ -1,3 +1,7 @@
 print("Hello world");
 echo 'yoyoyo';
 test;
+Всем привет;
+12345;
+
+
